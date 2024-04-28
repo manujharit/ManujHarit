@@ -1,6 +1,6 @@
 # Manuj Haritwal
 
-📧 [Email](mailto:manuj.haritwal01@gmail.com) | 📞 +91-9414245053 | [Website](website_link) | [LinkedIn](linkedin_link) | [GitHub](github_link) | [Twitter](twitter_link)
+📧 [Email](mailto:manuj.haritwal01@gmail.com) | 📞 +91-9414245053 | [Website](https://manujharit.github.io/portfolio/) | [LinkedIn](http://www.linkedin.com/in/manuj-haritwal) | [GitHub](https://github.com/manujharit) | [Twitter](https://twitter.com/ManujHarit)
 
 ---
 
@@ -44,9 +44,6 @@ I am an experienced Full-Stack Developer with a 3-year background in the tech in
 **B. Tech. in Computer Science Engineering**
 *Dehradun Institute of Technology, Dehradun - Graduated May 2021 | CGPA: 7.44*
 
-## Achievements
-- **INSTA Rise Award:** Received from Infosys for quickly adapting to project needs and delivering exceptional work.
-
 ---
 
-Feel free to connect with me on [LinkedIn](linkedin_link) for collaboration or opportunities!
+Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/manuj-haritwal) for collaboration or opportunities!
