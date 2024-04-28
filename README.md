@@ -5,7 +5,7 @@
 ---
 
 ## Summary
-I am an experienced Full-Stack Developer with a 3-year background in the tech industry, proficient in JavaScript and specializing in ReactJS and Node.js frameworks. I am adept at using SCRUM and Agile methodologies to manage projects efficiently and deliver high-quality software solutions.
+I am an experienced Full-Stack Developer with a 3-year background in the tech industry, proficient in JavaScript and specializing in ReactJS and Node.js frameworks.
 
 ## Skills
 - **Frontend:** JavaScript, React.js, Redux
