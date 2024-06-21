@@ -1,6 +1,6 @@
 # Manuj Haritwal
 
-📧 [Email](mailto:manuj.haritwal01@gmail.com) | 📞 +91-9414245053 | [Website](https://manujharit.github.io/portfolio/) | [LinkedIn](http://www.linkedin.com/in/manuj-haritwal) | [GitHub](https://github.com/manujharit) | [Twitter](https://twitter.com/ManujHarit)
+📧 [Email](mailto:manuj.haritwal01@gmail.com) | 📞 +91-9414245053 | [Website](https://manujharitwal.vercel.app/) | [LinkedIn](http://www.linkedin.com/in/manuj-haritwal) | [GitHub](https://github.com/manujharit) | [Twitter](https://twitter.com/ManujHarit)
 
 ---
 
