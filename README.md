@@ -22,7 +22,7 @@ I am an experienced Full-Stack Developer with a 3-year background in the tech in
 
 ## Experience
 
-### Senior Systems Engineer - Infosys
+### Technology Analyst - Infosys
 *July 2021 - Present, Jaipur*
 
 **Project Experience: Starbucks Corporation (Sept 2021 – Present)**
