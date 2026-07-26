@@ -17,19 +17,18 @@ React Developer with 5 years of experience building fast and scalable web apps u
 
 ## Experience
 
-### Software Engineer - Metacube Software Pvt Ltd.
+### Software Engineer - Metacube Softwares Pvt Ltd.
 *Nov 2024 - Present*
 
 - Led a team of 3 developers to deliver the Reports Module for a client application, setting up a smooth JIRA ticketing process and guiding the team through complex project data.
-- Worked on the Reports and Data Journey Module to help users sync data and validate reports from different sources and targets like O365, Google, Active Directory, etc.
-- Built a flexible authentication UI using React.js and reusable components.
-- Added secure login features using QR codes and OAuth.
-- Created responsive React apps that support multiple languages (l10n), accessibility standards (a11y), and work well across Chrome, Safari, and Firefox (Chromium, WebKit, Gecko).
-- Improved app speed and reduced bundle sizes using Vite, Babel, and tree-shaking.
+- Worked on the Reports and Data Journey Module to help users to validate reports of user syncing from different sources and targets like O365, Google, Active Directory, etc.
+- Built a flexible authentication UI using React.js and reusable components and added secure login features using QR codes and OAuth.
+- Created responsive React applications that support multiple languages (i10n), accessibility standards (a11y), and work well across Chrome, Safari, and Firefox (Chromium, WebKit, Gecko).
+- Improved application speed and reduced bundle sizes using Vite, Babel, and tree-shaking.
 - Reached 99% test coverage by writing detailed unit and integration tests with Jest and Playwright.
 - Kept the code clean and followed standard guidelines using ESLint, Stylelint, and Sonarqube.
 
-### Technology Analyst - Infosys
+### Technology Analyst - Infosys Pvt. Ltd.
 *July 2021 - Oct 2024*
 
 - Built React components and connected them to REST APIs, which made the UI faster and more responsive.
