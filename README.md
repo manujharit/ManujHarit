@@ -1,6 +1,6 @@
 # Manuj Haritwal
 
-📧 [Email](mailto:manuj.haritwal01@gmail.com) | 📞 +91-9414245053 | [Potifolio](https://manujharitwal.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/manuj-haritwal) | [GitHub](https://github.com/manujharit)
+📧 [Email](mailto:manuj.haritwal01@gmail.com) | 📞 +91-9414245053 | [Portfolio](https://manujharitwal.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/manuj-haritwal) | [GitHub](https://github.com/manujharit)
 
 ---
 
@@ -69,4 +69,6 @@ React Developer with 5 years of experience building fast and scalable web apps u
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manuj-haritwal) for collaboration or opportunities!
+Feel free to connect with me!
+
+**[Portfolio](https://manujharitwal.vercel.app/)** | **[GitHub](https://github.com/manujharit)** | **[LinkedIn](https://www.linkedin.com/in/manuj-haritwal)** | **[Email](mailto:manuj.haritwal01@gmail.com)**
